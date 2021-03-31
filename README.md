@@ -2,7 +2,7 @@
 This is a fun project implementing a red-black tree data structure in the whitespace programming language.
 
 ## prerequisites
-To compile the code yourself, you need a whitespace assembler ([blacktime](https://github.com/threeifbywhiskey/blacktime)). To run, you need a whitespace interpreter ([satan](https://github.com/milankowww/satan])). Please note that the original satan distribution contains a bug in an instruction critical to the successful program execution. For this reason, you will need to use my version of satan, which contains the necessary fix.
+To compile the code yourself, you need a whitespace assembler ([blacktime](https://github.com/threeifbywhiskey/blacktime)). To run, you need a whitespace interpreter ([satan](https://github.com/milankowww/satan)). Please note that the original satan distribution contains a bug in an instruction critical to the successful program execution. For this reason, you will need to use my version of satan, which contains the necessary fix.
 
 Download:
 ```sh
